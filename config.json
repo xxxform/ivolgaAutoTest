@@ -1,0 +1,16 @@
+{
+    "adminLogin": "admin",
+    "adminPassword": "admin",
+    "testUserLogin": "testUser@test.ru",
+    "testUserPassword": "abacaba",
+    "countOfCategories": 8,
+    "weightCategory": "kolbasa",
+    "mailConfig": {
+        "service": "Yandex",
+        "addressees": ["crash.bug@yandex.ru"],
+        "host": "smtp.yandex.ru",
+        "port": 465,
+        "login": "YakoSerj@yandex.ru",
+        "password": ""
+    }
+}
